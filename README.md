@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**AlbuquerqueGabriel20/AlbuquerqueGabriel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá Sou AlbuquerqueGabriel20
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/AlbuquerqueGabriel20">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlbuquerqueGabriel20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbuquerqueGabriel20&layout=compact&langs_count=7&theme=dark"/>  
+</div>
+
+
